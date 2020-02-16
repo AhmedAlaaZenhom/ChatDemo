@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Demo</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor</string>
+    <string name="input_hint_text">Enter your message here</string>
+</resources>
